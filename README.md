@@ -33,5 +33,5 @@ python test_rivir.py
 ![Abstract](figures/dataset.png)
 we introduce the first large-scale Real-world Infrared and Visible Image Registration Dataset (RIVIR) in the fifield, which contains a total of 1,300 pairs of unaligned image samples. The dataset is collected using a FLIR T1050sc dual spectrum camera, with visible images captured at a resolution of 1280 × 960 and infrared images at 1024 × 768. To ensure diverse geographic distribution, data collection was conducted across multiple cities, spanning 26 degrees in longitude and 18 degrees in latitude.
 ## Dataset Download
-  - [Google Drive]([https://drive.google.com/file/d/1y2630aK4G8FJllNW2PuQpX339jz22_EM/view?usp=sharing](https://drive.google.com/drive/folders/1ilMDQ_TDR7h4gzL_-mt-acGeuw1hJUpl?usp=sharing))
+  - [Google Drive](https://drive.google.com/drive/folders/1ilMDQ_TDR7h4gzL_-mt-acGeuw1hJUpl?usp=sharing)
   - [Google Drive](https://drive.google.com/file/d/1iZkUjED4m79NmMd9TDho0_iaJtRzePg8/view?usp=sharing)
